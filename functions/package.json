@@ -11,6 +11,8 @@
   },
   "main": "lib/index.js",
   "dependencies": {
+    "@octokit/rest": "^16.15.0",
+    "@slack/client": "^4.8.0",
     "firebase-admin": "~7.0.0",
     "firebase-functions": "^2.2.0"
   },
